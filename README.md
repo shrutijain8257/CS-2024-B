@@ -30,6 +30,7 @@ Folders of following project Ids has been created.<br>
   <td>Serial No</td>
   <td>PCS Code</td>
   <td>Name</td>
+  <td style="display: none;">guide name</td>
 </tr>
 
 <tr>
