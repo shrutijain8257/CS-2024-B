@@ -39,12 +39,6 @@ Folders of following project Ids has been created.<br>
 </tr>
 
 <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-
-<tr>
   <td>2</td>
   <td>PCS24-65</td>
   <td>Ms. Akanksha</td>
