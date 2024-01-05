@@ -30,7 +30,6 @@ Folders of following project Ids has been created.<br>
   <td>Serial No</td>
   <td>PCS Code</td>
   <td>Name</td>
-  <td style="display: none;">guide name</td>
 </tr>
 
 <tr>
@@ -120,20 +119,17 @@ Folders of following project Ids has been created.<br>
     <td>11</td>
     <td>PCS24-14</td>
     <td>Ms. Arti Sharma</td>
-    <td>Ms. Arti Sharma</td>
 </tr>
 
 <tr>
     <td>12</td>
     <td>PCS24-44</td>
     <td>Ms. Arti Sharma</td>
-    <td>Ms. Arti Sharma</td>
 </tr>
 
 <tr>
     <td>13</td>
     <td>PCS24-45</td>
-    <td>Ms. Arti Sharma</td>
     <td>Ms. Arti Sharma</td>
 </tr>
 
@@ -146,13 +142,11 @@ Folders of following project Ids has been created.<br>
     <td>14</td>
     <td>PCS24-10</td>
     <td>Mr Pawan Kumar Pal</td>
-    <td>Mr Pawan Kumar Pal</td>
 </tr>
 
 <tr>
     <td>15</td>
     <td>PCS24-51</td>
-    <td>Mr Pawan Kumar Pal</td>
     <td>Mr Pawan Kumar Pal</td>
 </tr>
 
@@ -160,13 +154,11 @@ Folders of following project Ids has been created.<br>
     <td>16</td>
     <td>PCS24-57</td>
     <td>Mr Pawan Kumar Pal</td>
-    <td>Mr Pawan Kumar Pal</td>
 </tr>
 
 <tr>
     <td>17</td>
     <td>PCS24-69</td>
-    <td>Mr Pawan Kumar Pal</td>
     <td>Mr Pawan Kumar Pal</td>
 </tr>
 
@@ -179,20 +171,17 @@ Folders of following project Ids has been created.<br>
     <td>18</td>
     <td>PCS24-21</td>
     <td>Mr Pardeep Tyagi</td>
-    <td>Mr Pardeep Tyagi</td>
 </tr>
 
 <tr>
     <td>19</td>
     <td>PCS24-55</td>
     <td>Mr Pardeep Tyagi</td>
-    <td>Mr Pardeep Tyagi</td>
 </tr>
 
 <tr>
     <td>20</td>
     <td>PCS24-70</td>
-    <td>Mr Pardeep Tyagi</td>
     <td>Mr Pardeep Tyagi</td>
 </tr>
 
@@ -205,13 +194,11 @@ Folders of following project Ids has been created.<br>
     <td>21</td>
     <td>PCS24-12</td>
     <td>Ms. Shivani</td>
-    <td>Ms. Shivani</td>
 </tr>
 
 <tr>
     <td>22</td>
     <td>PCS24-15</td>
-    <td>Ms. Shivani</td>
     <td>Ms. Shivani</td>
 </tr>
 
@@ -219,20 +206,17 @@ Folders of following project Ids has been created.<br>
     <td>23</td>
     <td>PCS24-18</td>
     <td>Ms. Shivani</td>
-    <td>Ms. Shivani</td>
 </tr>
 
 <tr>
     <td>24</td>
     <td>PCS24-20</td>
     <td>Ms. Shivani</td>
-    <td>Ms. Shivani</td>
 </tr>
 
 <tr>
     <td>25</td>
     <td>PCS24-35</td>
-    <td>Ms. Shivani</td>
     <td>Ms. Shivani</td>
 </tr>
 
