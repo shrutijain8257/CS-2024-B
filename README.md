@@ -4,13 +4,13 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>MS. Akanksha</li>
-  <li>Mr. Akash Goel</li>
-  <li>Mr Anurag Mishra</li>
-  <li>Ms. Arti Sharma</li>
-  <li>Mr. Pawan Kumar Pal</li>
-  <li>Mr. Pradeep Tyagi</li>
-  <li>MS. Shivani</li>
+  <li>MS. Akanksha: 40,65,66</li>
+  <li>Mr. Akash Goel: 23,33,53</li>
+  <li>Mr Anurag Mishra: 4,31,38,54</li>
+  <li>Ms. Arti Sharma: 14,44,45</li>
+  <li>Mr. Pawan Kumar Pal: 10,51,57,69</li>
+  <li>Mr. Pradeep Tyagi: 21,55,70</li>
+  <li>MS. Shivani: 12,15,18,20,35</li>
 </ul>
   
 <b>#How to access</b><br>
